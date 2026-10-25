@@ -1,20 +1,11 @@
-# MCSync
+# Give Up GitHub
 
-a syncing daemon for MCSR Linux for options.txt and hotbar.nbt and much more
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-## Usage
+You can now find this project at [https://codeberg.org/vojtiseek/mcsync](https://codeberg.org/vojtiseek/mcsync) instead.
 
-- In Prism Launcher, go to: Setting -> Minecraft -> Custom Commands
-- In the row "Pre-launch Command" write `mcsync sync $INST_DIR`
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
-## Installation
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-- To install the project, run `curl -fsSL raw.githubusercontent.com/votisek/mcsync/main/install.sh | bash`
-
-## Configuration
-
-- To configure the `hotbar.nbt` and `options.txt`, you will need to copy them from the preffered instance, you can do that by selecting the instance and clicking Folder in the sidebar
-- That opens up dolphin, the file manager
-- In there right click and select View in terminal
-- Once you are there, run `mcsync options` to use the options.txt file from that instance
-- The same applies for hotbar, to use that, run `mcsync hotbar`
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
